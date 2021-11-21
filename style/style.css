@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.click-me {
+    padding: 0.4rem;
+    border: 1px solid #222222;
+    color: #333333;
+    font-size: 2rem;
+}
+
+.click-me:hover {
+    background-color: rgba(240, 240, 240, 0.2);
+}
